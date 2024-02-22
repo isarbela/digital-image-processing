@@ -1,0 +1,1 @@
+# Linear Filtering Algorithms - Mean and Gaussian Filters
